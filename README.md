@@ -25,5 +25,12 @@ You can view the template live at: [https://muhamedsaad112.github.io/Template-Tw
 - Basic knowledge of HTML and CSS for customization.
 
 
+## 📞 Contact
+
+📝 ***Feel free to contact me. I am always here ...***
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Mohamed%20Saad-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/MuhamedSaad112/)
+[![Mail](https://img.shields.io/badge/Gmail-m.saad1122003@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:m.saad1122003@gmail.com)
+<br>
+
 ## Author
 Mohamed Saad - [GitHub Profile](https://github.com/MuhamedSaad112)
